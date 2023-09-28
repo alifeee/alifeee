@@ -21,7 +21,8 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 | [Space Pirates and the Mind Stone][space-pirates] <br> gamejam game <br> *Godot, GDScript* | [Steam Collage Api] <br> generate image from your steam games! <br> *Python, Flask* | [Hull bus terminal signs][hull bus signs] <br> hardware hacking of dot matrix displays <br> *Arduino, C* |
 | --- | --- | --- |
 
-[space-pirates]: https://github.com/alifeee/space-pirates
+[space-pirates]: https://alifeee.itch.io/space-pirates-and-the-mind-stone
+[space-pirates:source]: https://github.com/alifeee/space-pirates
 [Steam Collage Api]: https://alifeee.co.uk/steam_mosaic/
 [hull bus signs]: https://github.com/ConnectedHumber/Bus-Terminal-Signs
 

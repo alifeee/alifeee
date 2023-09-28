@@ -1,16 +1,26 @@
-### Hi there 👋
+# toki a!
 
-<!--
-**alifeee/alifeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **alifeee** and I make things! Some of those things are here. Some are made of cardboard.
 
-Here are some ideas to get you started:
+[message me](https://linktr.ee/alifeee)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Currently maintaining
+
+| [gspread][gspread] <br> a Python API for Google Sheets <br> *Python*|
+| --- |
+
+[gspread]: https://github.com/burnash/gspread
+
+### 🗣 Favourite personal projects
+
+| [Space Pirates and the Mind Stone][space-pirates] <br> gamejam game <br> *Godot, GDScript* | [Steam Collage Api] <br> generate image from your steam games! <br> *Python, Flask* | [Hull bus terminal signs][hull bus signs] <br> hardware hacking of dot matrix displays <br> *Arduino, C* |
+| --- | --- | --- |
+
+[space-pirates]: https://github.com/alifeee/space-pirates
+[Steam Collage Api]: https://alifeee.co.uk/steam_mosaic/
+[hull bus signs]: https://github.com/ConnectedHumber/Bus-Terminal-Signs
+
+### 👀 Check out...
+
+| [blog.alifeee.co.uk](https://blog.alifeee.co.uk) <br> BLOG!!! <br> *thoughts* | [alifeee.co.uk](https://alifeee.co.uk) <br> PERSONAL WEBSITE <br> *HTML, CSS, JS* |
+| --- | --- |

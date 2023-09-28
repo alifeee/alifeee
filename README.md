@@ -2,7 +2,7 @@
 
 I'm **alifeee** and I make things! Some of those things are here. Some are made of cardboard.
 
-[message me](https://linktr.ee/alifeee)!
+socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr.ee/alifeee)!
 
 ### 🛠 Currently maintaining
 

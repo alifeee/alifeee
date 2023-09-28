@@ -27,8 +27,7 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 
 ### ❓ Random things
 
-| [\<zero-md\>] <br> [toki pona] <br> [DreamBerd] <br> [giscus]| [freeskates] <br> [geocaching] <br> [lipu tenpo] | [stink pipes] <br> [keyforge] <br> [l'etranger] |
-| --- | --- | --- |
+[\<zero-md\>] · [toki pona] · [DreamBerd] · [giscus] [freeskates] · [geocaching] · [lipu tenpo] · [stink pipes] · [keyforge] · [l'etranger]
 
 [\<zero-md\>]: https://github.com/zerodevx/zero-md
 [toki pona]: https://tokipona.org/

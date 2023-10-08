@@ -18,8 +18,13 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 
 ### 🗣 Favourite personal projects
 
-| [Space Pirates and the Mind Stone][space-pirates] <br> gamejam game <br> *Godot, GDScript* | [Steam Collage Api] <br> generate image from your steam games! <br> *Python, Flask* | [Hull bus terminal signs][hull bus signs] <br> hardware hacking of dot matrix displays <br> *Arduino, C* | [Factorio Proximity Chat Mod][factorio prox chat] <br> Mumble Plugin + Factorio Mod <br> Lua, C |
-| --- | --- | --- | --- |
+<center>
+
+| [Space Pirates and the Mind Stone][space-pirates] <br> gamejam game <br> *Godot, GDScript* | [Factorio Proximity Chat Mod][factorio prox chat] <br> Mumble Plugin + Factorio Mod <br> Lua, C |
+| :-: | :-: |
+| [Hull bus terminal signs][hull bus signs] <br> hardware hacking of dot matrix displays <br> *Arduino, C* | [Steam Collage Api] <br> generate image from your steam games! <br> *Python, Flask* |
+
+</center>
 
 [space-pirates]: https://alifeee.itch.io/space-pirates-and-the-mind-stone
 [space-pirates:source]: https://github.com/alifeee/space-pirates

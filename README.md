@@ -18,18 +18,21 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 
 ### 🗣 Favourite personal projects
 
-| [Space Pirates and the Mind Stone][space-pirates] <br> gamejam game <br> [github repo][space-pirates#gh] <br> *Godot, GDScript* | [Factorio Proximity Chat Mod][factorio prox chat] <br> Mumble Plugin + Factorio Mod <br> [github repo][factorio prox chat#gh] <br> *Lua, C* |
+| [Space Pirates and the Mind Stone][space-pirates] <br> gamejam game <br> [github repo][space-pirates#gh] <br> *Godot, GDScript* | [Factorio Proximity Chat Mod][factorio prox chat] <br> Mumble Plugin + Factorio Mod <br> [github repo][factorio prox chat#gh] · [blog][factorio prox chat#blog] <br> *Lua, C* |
 | :-: | :-: |
-| [Hull bus terminal signs][hull bus signs] <br> hardware hacking of dot matrix displays <br> [github repo][hull bus signs#gh] <br> *Arduino, C* | [Steam Collage Api] <br> generate image from your steam games! <br> [github repo][Steam Collage Api#gh] <br> *Python, Flask* |
+| [Hull bus terminal signs][hull bus signs] <br> hardware hacking of dot matrix displays <br> [github repo][hull bus signs#gh] · [blog][hull bus signs#blog] <br> *Arduino, C* | [Steam Collage Api] <br> generate image from your steam games! <br> [github repo][Steam Collage Api#gh] · [blog][Steam Collage Api#blog] <br> *Python, Flask* |
 
 [space-pirates]: https://alifeee.itch.io/space-pirates-and-the-mind-stone
 [space-pirates#gh]: https://github.com/alifeee/space-pirates
 [Steam Collage Api]: https://alifeee.co.uk/steam_mosaic/
 [Steam Collage Api#gh]: https://github.com/alifeee/steam_collage_api
+[Steam Collage Api#blog]: https://blog.alifeee.co.uk/steam-collage-api/
 [hull bus signs]: https://blog.alifeee.co.uk/hull-bus-sign/
 [hull bus signs#gh]: https://github.com/ConnectedHumber/Bus-Terminal-Signs
+[hull bus signs#blog]: https://blog.alifeee.co.uk/hull-bus-sign/
 [factorio prox chat]: https://mods.factorio.com/mod/proximity-voice-chat
 [factorio prox chat#gh]: https://github.com/alifeee/Factorio-Proximity-Voice-Chat/
+[factorio prox chat#blog]: https://blog.alifeee.co.uk/factorio-proximity-chat/
 
 ### ❓ Random things
 

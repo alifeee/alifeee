@@ -49,6 +49,6 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 [DreamBerd]: https://github.com/TodePond/DreamBerd
 [giscus]: https://github.com/giscus/giscus
 [the phrontistery]: https://phrontistery.info/index.html
-[potions]: https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7b/Minecraft_brewing_en.png/revision/latest?cb=20221014112452
+[potions]: https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7b/Minecraft_brewing_en.png/revision/latest
 [pipes]: https://1j01.github.io/pipes/
 [cameron's world]: https://www.cameronsworld.net/

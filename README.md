@@ -36,7 +36,9 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 
 ### ❓ Random things
 
-[\<zero-md\>] · [toki pona] · [DreamBerd] · [giscus] · [freeskates] · [geocaching] · [lipu tenpo] · [stink pipes] · [keyforge] · [l'etranger] · [the phrontistery] · [potions] · [pipes] · [cameron's world]
+code-y [\<zero-md\>] · [DreamBerd] · [giscus] · [pipes] · [cameron's world] · [budgeter bot]
+
+random [toki pona] · [freeskates] · [geocaching] · [lipu tenpo] · [stink pipes] · [keyforge] · [l'etranger] · [the phrontistery] · [potions]
 
 [\<zero-md\>]: https://github.com/zerodevx/zero-md
 [toki pona]: https://tokipona.org/
@@ -52,3 +54,4 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 [potions]: https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7b/Minecraft_brewing_en.png/revision/latest
 [pipes]: https://1j01.github.io/pipes/
 [cameron's world]: https://www.cameronsworld.net/
+[budgeter bot]: https://github.com/alifeee/telegram-budgeter

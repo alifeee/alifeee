@@ -36,7 +36,7 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 
 ### ❓ Random things
 
-code-y [\<zero-md\>] · [DreamBerd] · [giscus] · [pipes] · [cameron's world] · [budgeter bot]
+code-y [\<zero-md\>] · [DreamBerd] · [giscus] · [pipes] · [cameron's world] · [budgeter bot] · [openring]
 
 random [toki pona] · [freeskates] · [geocaching] · [lipu tenpo] · [stink pipes] · [keyforge] · [l'etranger] · [the phrontistery] · [potions]
 
@@ -55,3 +55,4 @@ random [toki pona] · [freeskates] · [geocaching] · [lipu tenpo] · [stink pip
 [pipes]: https://1j01.github.io/pipes/
 [cameron's world]: https://www.cameronsworld.net/
 [budgeter bot]: https://github.com/alifeee/telegram-budgeter
+[openring]: https://sr.ht/~sircmpwn/openring/

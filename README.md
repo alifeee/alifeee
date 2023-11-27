@@ -40,6 +40,8 @@ code-y [\<zero-md\>] · [DreamBerd] · [giscus] · [pipes] · [cameron's world] 
 
 random [toki pona] · [freeskates] · [geocaching] · [lipu tenpo] · [stink pipes] · [keyforge] · [l'etranger] · [the phrontistery] · [potions]
 
+For many more see my [web bookmarks](https://alifeee.co.uk/bookmarks)
+
 [\<zero-md\>]: https://github.com/zerodevx/zero-md
 [toki pona]: https://tokipona.org/
 [freeskates]: https://www.jmkride.com/

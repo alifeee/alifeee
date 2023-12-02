@@ -36,7 +36,7 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 
 ### ❓ Random things
 
-code-y [\<zero-md\>] · [DreamBerd] · [giscus] · [pipes] · [cameron's world] · [budgeter bot] · [openring] · [tree puzzle] · [invoice template] · [mustache] · [my webring]
+code-y [\<zero-md\>] · [DreamBerd] · [giscus] · [pipes] · [cameron's world] · [budgeter bot] · [openring] · [tree puzzle] · [invoice template] · [mustache] · [my webring] · [kiran builder]
 
 random [toki pona] · [freeskates] · [geocaching] · [lipu tenpo] · [stink pipes] · [keyforge] · [l'etranger] · [the phrontistery] · [potions] · [wrapped]
 
@@ -63,3 +63,4 @@ For many more see my [web bookmarks](https://alifeee.co.uk/bookmarks)
 [mustache]: https://mustache.github.io/
 [my webring]: https://webring.alifeee.co.uk/
 [wrapped]: https://gist.github.com/alifeee/075086b13fe5cec4c86d0f051973a960
+[kiran builder]: https://github.com/alifeee/kiran-builder-typeface

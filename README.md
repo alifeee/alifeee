@@ -38,7 +38,7 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 
 code-y [\<zero-md\>] · [DreamBerd] · [giscus] · [pipes] · [cameron's world] · [budgeter bot] · [openring] · [tree puzzle] · [invoice template] · [mustache] · [my webring] · [kiran builder] · [days since last JS framework]
 
-random [toki pona] · [freeskates] · [geocaching] · [lipu tenpo] · [stink pipes] · [keyforge] · [l'etranger] · [the phrontistery] · [potions] · [wrapped]
+random [toki pona] · [freeskates] · [geocaching] · [lipu tenpo] · [stink pipes] · [keyforge] · [l'etranger] · [the phrontistery] · [potions] · [wrapped] · [leekspin]
 
 For many more see my [web bookmarks](https://alifeee.co.uk/bookmarks)
 
@@ -65,3 +65,4 @@ For many more see my [web bookmarks](https://alifeee.co.uk/bookmarks)
 [wrapped]: https://gist.github.com/alifeee/075086b13fe5cec4c86d0f051973a960
 [kiran builder]: https://github.com/alifeee/kiran-builder-typeface
 [days since last JS framework]: https://dayssincelastjavascriptframework.com/
+[leekspin]: https://leekspin.com/

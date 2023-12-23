@@ -18,9 +18,9 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 
 ### 🗣 Favourite personal projects
 
-| [Space Pirates and the Mind Stone][space-pirates] <br> gamejam game <br> [github repo][space-pirates#gh] <br> *Godot, GDScript* | [Factorio Proximity Chat Mod][factorio prox chat] <br> Mumble Plugin + Factorio Mod <br> [github repo][factorio prox chat#gh] · [blog][factorio prox chat#blog] <br> *Lua, C* |
-| :-: | :-: |
-| [Hull bus terminal signs][hull bus signs] <br> hardware hacking of dot matrix displays <br> [github repo][hull bus signs#gh] · [blog][hull bus signs#blog] <br> *Arduino, C* | [Steam Collage Api] <br> generate image from your steam games! <br> [github repo][Steam Collage Api#gh] · [blog][Steam Collage Api#blog] <br> *Python, Flask* |
+| [Space Pirates and the Mind Stone][space-pirates] <br> gamejam game <br> [github repo][space-pirates#gh] <br> *Godot, GDScript* | [Factorio Proximity Chat Mod][factorio prox chat] <br> Mumble Plugin + Factorio Mod <br> [github repo][factorio prox chat#gh] · [blog][factorio prox chat#blog] <br> *Lua, C* | [BogFace] <br> Homemade typeface <br> [github repo][BogFace#gh] · [blog][BogFace#blog] <br> *FontForge* |
+| :-: | :-: | :-: |
+| [Hull bus terminal signs][hull bus signs] <br> hardware hacking of dot matrix displays <br> [github repo][hull bus signs#gh] · [blog][hull bus signs#blog] <br> *Arduino, C* | [Steam Collage Api] <br> generate image from your steam games! <br> [github repo][Steam Collage Api#gh] · [blog][Steam Collage Api#blog] <br> *Python, Flask* | [Telegram Budgeter Bot][tbb] <br> Telegram bot for keeping track of daily spending <br> [github repo][tbb#gh] <br> *Python, Telegram API* |
 
 [space-pirates]: https://alifeee.itch.io/space-pirates-and-the-mind-stone
 [space-pirates#gh]: https://github.com/alifeee/space-pirates
@@ -33,6 +33,11 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 [factorio prox chat]: https://mods.factorio.com/mod/proximity-voice-chat
 [factorio prox chat#gh]: https://github.com/alifeee/Factorio-Proximity-Voice-Chat/
 [factorio prox chat#blog]: https://blog.alifeee.co.uk/factorio-proximity-chat/
+[BogFace]: https://alifeee.co.uk/fonts/
+[BogFace#gh]: https://github.com/alifeee/bogface
+[BogFace#blog]: https://blog.alifeee.co.uk/making-bogface
+[tbb]: https://t.me/daily_budgeter_bot
+[tbb#gh]: https://github.com/alifeee/telegram-budgeter
 
 ### ❓ Random things
 

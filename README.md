@@ -13,8 +13,8 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 
 ### 👀 Check out...
 
-| [blog.alifeee.co.uk](https://blog.alifeee.co.uk) <br> BLOG!!! <br> *thoughts* | [alifeee.co.uk](https://alifeee.co.uk) <br> PERSONAL WEBSITE <br> *HTML, CSS, JS* |
-| --- | --- |
+| [blog.alifeee.co.uk](https://blog.alifeee.co.uk) <br> BLOG!!!| [alifeee.co.uk](https://alifeee.co.uk) <br> PERSONAL WEBSITE | [weeknotes.alifeee.co.uk](https://weeknotes.alifeee.co.uk) <br> WEEKNOTES |
+| --- | --- | --- |
 
 ### 🗣 Favourite personal projects
 

@@ -41,7 +41,7 @@ socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr
 
 ### ❓ Random things
 
-code-y [\<zero-md\>] · [DreamBerd] · [giscus] · [pipes] · [cameron's world] · [budgeter bot] · [openring] · [tree puzzle] · [invoice template] · [mustache] · [my webring] · [kiran builder] · [days since last JS framework]
+code-y [\<zero-md\>] · [DreamBerd] · [giscus] · [pipes] · [cameron's world] · [budgeter bot] · [openring] · [tree puzzle] · [invoice template] · [mustache] · [my webring] · [kiran builder] · [days since last JS framework] · [small games manifesto]
 
 random [toki pona] · [freeskates] · [geocaching] · [lipu tenpo] · [stink pipes] · [keyforge] · [l'etranger] · [the phrontistery] · [potions] · [wrapped] · [leekspin] · [cat love song]
 
@@ -72,3 +72,4 @@ For many more see my [web bookmarks](https://alifeee.co.uk/bookmarks)
 [days since last JS framework]: https://dayssincelastjavascriptframework.com/
 [leekspin]: https://leekspin.com/
 [cat love song]: https://soundcloud.com/nadishana/catslovesong1
+[small games manifesto]: https://ebeth.itch.io/small-games-manifesto

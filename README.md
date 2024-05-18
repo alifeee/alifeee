@@ -2,6 +2,8 @@
 
 I'm **alifeee** and I make things! Some of those things are here. Some are made of cardboard.
 
+Here is a random (different every time!) repository ![random repo](https://server.alifeee.co.uk/github/svg.cgi). Find it [here](https://github.com/alifeee?tab=repositories).
+
 socials on [linktree](https://linktr.ee/alifeee) --> [message me](https://linktr.ee/alifeee)!
 
 ### 🛠 Currently maintaining

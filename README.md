@@ -15,8 +15,8 @@ click here for --> [**random repository**](https://server.alifeee.co.uk/github/h
 
 ### 👀 Check out...
 
-| [blog.alifeee.co.uk](https://blog.alifeee.co.uk) <br> BLOG!!!| [alifeee.co.uk](https://alifeee.co.uk) <br> PERSONAL WEBSITE | [weeknotes.alifeee.co.uk](https://weeknotes.alifeee.co.uk) <br> WEEKNOTES |
-| --- | --- | --- |
+| [blog.alifeee.co.uk](https://blog.alifeee.co.uk) <br> BLOG!!!| [alifeee.co.uk](https://alifeee.co.uk) <br> PERSONAL WEBSITE | [weeknotes.alifeee.co.uk](https://weeknotes.alifeee.co.uk) <br> WEEKNOTES | [blog.alifeee.co.uk/notes/](https://blog.alifeee.co.uk/notes/) <br> NOTES (PROGRAMMING) |
+| --- | --- | --- | --- |
 
 ### 🗣 Favourite personal projects
 
